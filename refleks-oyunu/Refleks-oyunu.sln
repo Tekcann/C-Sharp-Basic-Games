@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Refleks-oyunu", "Refleks-oyunu\Refleks-oyunu.csproj", "{D944E368-0D57-4030-80F6-8040A43B08DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D944E368-0D57-4030-80F6-8040A43B08DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D944E368-0D57-4030-80F6-8040A43B08DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D944E368-0D57-4030-80F6-8040A43B08DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D944E368-0D57-4030-80F6-8040A43B08DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38C19F5B-DEB7-400D-BBFD-DD814B5BDFFD}
+	EndGlobalSection
+EndGlobal
